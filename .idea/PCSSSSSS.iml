@@ -6,6 +6,12 @@
       <excludeFolder url="file://$MODULE_DIR$/ui_practice_krasavin/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ui_practice_krasavin/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ui_practice_krasavin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB3/ui_practice_krasavin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB3/ui_practice_krasavin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB3/ui_practice_krasavin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB4/flutter_create_state_practice_krasavin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB4/flutter_create_state_practice_krasavin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB4/flutter_create_state_practice_krasavin/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
